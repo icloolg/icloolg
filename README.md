@@ -1,81 +1,67 @@
-<h1 align="center">👩‍💻 İclal Gül</h1>
-<p align="center">
-  <strong>Backend Developer | AI for Defense | Cybersecurity Enthusiast</strong><br>
-  <em>Technology-Driven • Mission-Oriented • Open to Challenges</em>
-</p>
+<h1 align="center">👩‍💻 İclal Gül</h1> <p align="center"> <strong>Backend Developer | AI for Defense | Cybersecurity Enthusiast</strong><br> <em>Technology-Driven • Mission-Oriented • Open to Challenges</em> </p>
+🚀 About Me
+I am İclal Gül, a recent Software Engineering graduate determined to develop AI and security-based systems tailored for the defense industry. I am a software developer who thinks both technically and strategically, produces projects, is solution-oriented, and always open to continuous improvement.
 
----
-
-### 🚀 Hakkımda
-
-Ben İclal Gül. Yeni mezun bir Yazılım Mühendisiyim ve **savunma sanayiine özel yapay zekâ ve güvenlik temelli sistemler** geliştirme konusunda kararlıyım. Hem teknik hem stratejik düşünebilen, proje üreten, çözüm odaklı ve sürekli gelişmeye açık bir yazılım geliştiriciyim.
-
-🎓 Software Engineering @ Mehmet Akif Ersoy University  
-🛡️ SOC & SIEM Cybersecurity Intern @ OYAK Cement  
+🎓 Software Engineering @ Mehmet Akif Ersoy University
+🛡️ SOC & SIEM Cybersecurity Intern @ OYAK Cement
 🚀 Avionics Software Intern @ Simsoft
 
----
+🔧 Technologies & Tools
+Python Django Java PyQt Linux Docker PostgreSQL
+YOLO OpenCV Unreal Engine 5 Firebase TensorFlow Azure
+IBMQradar Wireshark HTML/CSS Zabbix EDR/NDR Docker PyTorch Metasploit BurpSuite MITRE ATT&CK
 
-### 🔧 Teknolojiler ve Araçlar
+🛰️ My Focus Areas
+🔹 Defense Industry-Specific Applications
 
-`Python` `Django` ` Java` `PyQt` `Linux` `Docker` `PostgreSQL`  
-`YOLO` `OpenCV` `Unreal Engine 5` `Firebase` `TensorFlow` `Azure`  
-`IBMQradar` `Wireshark` `HTML/CSS` `Zabbix` `EDR/NDR` `Doker` `PyTorch` `Metasploit` `BurpSuite` `MITRE ATT&CK`
+Knowledge of communication protocols like MIL-STD-1553, CANBus, ARINC 429
 
----
+Autonomous Drone Simulation for Fire Detection (Senior Project)
 
-### 🛰️ Odak Alanlarım
-- 🔹 **Savunma Sanayiine Özgü Uygulamalar**
-  - MIL-STD-1553, CANBus, ARINC 429 gibi iletişim protokolleri bilgisi
-  - Otonom Drone Simülasyonu ile Yangın Tespiti (Bitirme Projesi)
+🔹 Cybersecurity & SOC
 
-- 🔹 **Siber Güvenlik & SOC**
-  - QRadar, Wireshark, MITRE ATT&CK, Phishing Simülasyonları
-  - Penetrasyon testleri,  (SMB Relay, LLMNR Spoofing,Active  Directory)
+QRadar, Wireshark, MITRE ATT&CK, Phishing Simulations
 
-- 🔹 **AI & Görüntü İşleme**
-  - YOLOv8/YOLOv11 ile gerçek zamanlı obje ve yüz tanıma
-  - MTCNN, Emotion Detection, Trackline-Tracking algoritmaları
+Penetration testing (SMB Relay, LLMNR Spoofing, Active Directory)
 
-- 🔹 **Backend & CI/CD & API Geliştirme**
-  - Django Rest Framework, GitHub Actions, Dockerize 
+🔹 AI & Computer Vision
+
+Real-time object and face recognition with YOLOv8/YOLOv11
+
+MTCNN, Emotion Detection, Trackline-Tracking algorithms
+
+🔹 Backend & CI/CD & API Development
+
+Django Rest Framework, GitHub Actions, Dockerization
+
+🧠 Key Projects
+🚁 AI-Powered Fire Detection Drone
+Unreal Engine 5 + YOLOv8-11 + Python + CUDA
+🔥 Real-time fire & smoke detection
+📌 Drone simulation, frame processing with CV2, model comparison
+
+💬 TCP Chatbot & PyQt Interface
+TCP Client-Server system | PyQt UI | Firebase + Gemini AI
+📡 Real-time chat with user-friendly interface
+📁 Communication protocol simulation combining Java & Python
+
+🎓 Django Learning Platform
+Fuzzy Search | User Roles | Docker | 100% Test Coverage
+🔎 Search algorithm with 85% accuracy, recommendation system
+📂 PostgreSQL optimization + Deployment-ready structure
+
+🏆 Achievements
+🥉 3rd Place, T.C. Ministry of Youth and Sports International Hackathon (2024)
+
+🛰️ Internships: Simsoft Avionics Software Unit & OYAK Cement (2024–2025)
+
+📜 TÜBİTAK 2209-A Project: IoT-based smart cane
+
+👩‍🎓 Participation in Google Game and Application Academy, Siber Vatan, National Technology Academy
 
 
-### 🧠 Öne Çıkan Projelerim
-
-#### 🚁 [AI Destekli Yangın Tespit Dronu](#)
-> Unreal Engine 5 + YOLOv8-11 + Python + CUDA  
-🔥 Gerçek zamanlı yangın & duman tespiti  
-📌 Drone simülasyonu, CV2 ile çerçeve işleme, model karşılaştırması  
-
-#### 💬 [TCP Chatbot & PyQt Arayüz](#)
-> TCP Client-Server sistem | PyQt UI | Firebase + Gemini AI  
-📡 Gerçek zamanlı sohbet + kullanıcı dostu arayüz  
-📁 Java & Python birleşimi ile iletişim protokol simülasyonu  
+📧 iclalgulll67@gmail.com
+🔗 https://www.linkedin.com/in/iclal-g%C3%BCl-se/
 
 
-#### 🎓 [Django Eğitim Platformu](#)
-> Fuzzy Search | Kullanıcı Rolleri | Docker | Test Coverage %100  
-🔎 Arama algoritması ile %85 doğruluk, öneri sistemi  
-📂 PostgreSQL optimizasyonu + Deployment-ready yapı  
-
-
----
-
-### 🏆 Başarılarım
-
-- 🥉 3.lük, T.C. Gençlik ve Spor Bakanlığı International Hackathon (2024)
-- 🛰️ Staj: Simsoft Aviyonik Yazılım Birimi & OYAK Cement SOC (2024–2025)
-- 📜 TÜBİTAK 2209-A Projesi: IoT tabanlı akıllı baston
-- 👩‍🎓 Google Oyun ve Uygulama Akademisi, Siber Vatan, Milli Teknoloji Akademisi Katılımları
-
----
-
-### 📫 İletişim
-📧 iclalgulll67@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/iclal-gül-se)  
-💻 [GitHub](https://github.com/icloolg)
-
----
-
-🛠️ *Bu profil sürekli güncelleniyor. Geliştirme ve öğrenme tutkusu asla bitmiyor!*
+🛠️ This profile is continuously updated. The passion for development and learning never ends!
