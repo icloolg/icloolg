@@ -1,67 +1,80 @@
-<h1 align="center">👩‍💻 İclal Gül</h1> <p align="center"> <strong>Backend Developer | AI for Defense | Cybersecurity Enthusiast</strong><br> <em>Technology-Driven • Mission-Oriented • Open to Challenges</em> </p>
-🚀 About Me
-I am İclal Gül, a recent Software Engineering graduate determined to develop AI and security-based systems tailored for the defense industry. I am a software developer who thinks both technically and strategically, produces projects, is solution-oriented, and always open to continuous improvement.
+<h1 align="center">👩‍💻 İclal Gül</h1>
 
-🎓 Software Engineering @ Mehmet Akif Ersoy University
-🛡️ SOC & SIEM Cybersecurity Intern @ OYAK Cement
+<p align="center">
+  <strong>Backend Developer | AI for Defense | Cybersecurity Enthusiast</strong><br>
+  <em>Technology-Driven • Mission-Oriented • Open to Challenges</em>
+</p>
+
+---
+
+### 🚀 About Me
+
+I am İclal Gül, a recent Software Engineering graduate passionate about developing **AI and security-based systems tailored for the defense industry**. I combine technical expertise with strategic thinking to deliver solution-oriented projects and continuously grow as a developer.
+
+🎓 Software Engineering @ Mehmet Akif Ersoy University  
+🛡️ SOC & SIEM Cybersecurity Intern @ OYAK Cement  
 🚀 Avionics Software Intern @ Simsoft
 
-🔧 Technologies & Tools
-Python Django Java PyQt Linux Docker PostgreSQL
-YOLO OpenCV Unreal Engine 5 Firebase TensorFlow Azure
-IBMQradar Wireshark HTML/CSS Zabbix EDR/NDR Docker PyTorch Metasploit BurpSuite MITRE ATT&CK
+---
 
-🛰️ My Focus Areas
-🔹 Defense Industry-Specific Applications
+### 🔧 Technologies & Tools
 
-Knowledge of communication protocols like MIL-STD-1553, CANBus, ARINC 429
+`Python` | `Django` | `Java` | `PyQt` | `Linux` | `Docker` | `PostgreSQL` |  
+`YOLO` | `OpenCV` | `Unreal Engine 5` | `Firebase` | `TensorFlow` | `Azure` |  
+`IBMQradar` | `Wireshark` | `HTML/CSS` | `Zabbix` | `EDR/NDR` | `Docker` | `PyTorch` | `Metasploit` | `BurpSuite` | `MITRE ATT&CK`
 
-Autonomous Drone Simulation for Fire Detection (Senior Project)
+---
 
-🔹 Cybersecurity & SOC
+### 🛰️ Focus Areas
 
-QRadar, Wireshark, MITRE ATT&CK, Phishing Simulations
+- **Defense Industry Applications**  
+  - Experience with communication protocols like MIL-STD-1553, CANBus, ARINC 429  
+  - Autonomous Drone Simulation for Fire Detection (Senior Project)
 
-Penetration testing (SMB Relay, LLMNR Spoofing, Active Directory)
+- **Cybersecurity & SOC**  
+  - Hands-on with QRadar, Wireshark, MITRE ATT&CK, Phishing Simulations  
+  - Penetration testing techniques (SMB Relay, LLMNR Spoofing, Active Directory)
 
-🔹 AI & Computer Vision
+- **AI & Computer Vision**  
+  - Real-time object and face recognition using YOLOv8/YOLOv11  
+  - Implementations of MTCNN, Emotion Detection, and Trackline-Tracking algorithms
 
-Real-time object and face recognition with YOLOv8/YOLOv11
+- **Backend & CI/CD & API Development**  
+  - Django Rest Framework, GitHub Actions, Dockerization
 
-MTCNN, Emotion Detection, Trackline-Tracking algorithms
+---
 
-🔹 Backend & CI/CD & API Development
+### 🧠 Key Projects
 
-Django Rest Framework, GitHub Actions, Dockerization
+#### 🚁 [AI-Powered Fire Detection Drone](#)  
+_Unreal Engine 5 + YOLOv8-11 + Python + CUDA_  
+Real-time fire & smoke detection through drone simulation, frame processing with OpenCV, and model comparison.
 
-🧠 Key Projects
-🚁 AI-Powered Fire Detection Drone
-Unreal Engine 5 + YOLOv8-11 + Python + CUDA
-🔥 Real-time fire & smoke detection
-📌 Drone simulation, frame processing with CV2, model comparison
+#### 💬 [TCP Chatbot & PyQt Interface](#)  
+_TCP Client-Server system | PyQt UI | Firebase + Gemini AI_  
+Real-time chat application with a user-friendly interface, simulating communication protocols using Java and Python.
 
-💬 TCP Chatbot & PyQt Interface
-TCP Client-Server system | PyQt UI | Firebase + Gemini AI
-📡 Real-time chat with user-friendly interface
-📁 Communication protocol simulation combining Java & Python
+#### 🎓 [Django Learning Platform](#)  
+_Fuzzy Search | User Roles | Docker | 100% Test Coverage_  
+Optimized PostgreSQL backend with an 85% accurate search algorithm and a recommendation system, fully deployment-ready.
 
-🎓 Django Learning Platform
-Fuzzy Search | User Roles | Docker | 100% Test Coverage
-🔎 Search algorithm with 85% accuracy, recommendation system
-📂 PostgreSQL optimization + Deployment-ready structure
+---
 
-🏆 Achievements
-🥉 3rd Place, T.C. Ministry of Youth and Sports International Hackathon (2024)
+### 🏆 Achievements
 
-🛰️ Internships: Simsoft Avionics Software Unit & OYAK Cement (2024–2025)
+- 🥉 3rd Place — T.C. Ministry of Youth and Sports International Hackathon (2024)  
+- 🛰️ Internships: Simsoft Avionics Software Unit & OYAK Cement (2024–2025)  
+- 📜 TÜBİTAK 2209-A Project: IoT-based Smart Cane  
+- 👩‍🎓 Participated in Google Game and Application Academy, Siber Vatan, National Technology Academy  
 
-📜 TÜBİTAK 2209-A Project: IoT-based smart cane
+---
 
-👩‍🎓 Participation in Google Game and Application Academy, Siber Vatan, National Technology Academy
+### 📫 Contact Me
 
+📧 iclalgulll67@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/iclal-gül-se)  
+💻 [GitHub](https://github.com/icloolg)
 
-📧 iclalgulll67@gmail.com
-🔗 https://www.linkedin.com/in/iclal-g%C3%BCl-se/
+---
 
-
-🛠️ This profile is continuously updated. The passion for development and learning never ends!
+🛠️ *This profile is continuously updated. The passion for development and learning never ends!*  
