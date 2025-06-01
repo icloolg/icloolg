@@ -10,13 +10,17 @@
 
 Ben İclal Gül. Yeni mezun bir Yazılım Mühendisiyim ve **savunma sanayiine özel yapay zekâ ve güvenlik temelli sistemler** geliştirme konusunda kararlıyım. Hem teknik hem stratejik düşünebilen, proje üreten, çözüm odaklı ve sürekli gelişmeye açık bir yazılım geliştiriciyim.
 
+🎓 Software Engineering @ Mehmet Akif Ersoy University  
+🛡️ SOC & SIEM Cybersecurity Intern @ OYAK Cement  
+🚀 Avionics Software Intern @ Simsoft
+
 ---
 
 ### 🔧 Teknolojiler ve Araçlar
 
 `Python` `Django` ` Java` `PyQt` `Linux` `Docker` `PostgreSQL`  
 `YOLO` `OpenCV` `Unreal Engine 5` `Firebase` `TensorFlow` `Azure`  
-`IBMQradar` `Wireshark` `HTML/CSS` `Zabbix` `EDR/NDR` `Doker`
+`IBMQradar` `Wireshark` `HTML/CSS` `Zabbix` `EDR/NDR` `Doker` `PyTorch` `Metasploit` `BurpSuite` `MITRE ATT&CK`
 
 ---
 
